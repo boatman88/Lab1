@@ -1,0 +1,16 @@
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\bin\Debug\net5.0\Deliverable1.exe
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\bin\Debug\net5.0\Deliverable1.deps.json
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\bin\Debug\net5.0\Deliverable1.runtimeconfig.json
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\bin\Debug\net5.0\Deliverable1.runtimeconfig.dev.json
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\bin\Debug\net5.0\Deliverable1.dll
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\bin\Debug\net5.0\ref\Deliverable1.dll
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\bin\Debug\net5.0\Deliverable1.pdb
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.csprojAssemblyReference.cache
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.AssemblyInfoInputs.cache
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.AssemblyInfo.cs
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.csproj.CoreCompileInputs.cache
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.dll
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\obj\Debug\net5.0\ref\Deliverable1.dll
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.pdb
+C:\Users\Munce\source\repos\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.genruntimeconfig.cache
